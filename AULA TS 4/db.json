@@ -1,0 +1,85 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "Horacio Slughorn",
+      "email": "hoho@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Aurélio Flores",
+      "email": "flores.auau@gmail.com"
+    }
+  ],
+  "Animal": [
+    {
+      "id": "1",
+      "nome": "Destruidor de Mundos",
+      "especie": "texugo"
+    },
+    {
+      "id": "2",
+      "nome": "Lili",
+      "especie": "tubarão"
+    },
+    {
+      "id": "3",
+      "nome": "PrincezZzZzzza",
+      "especie": "peixe-lanterna"
+    },
+    {
+      "id": "4",
+      "nome": "Doutora Deolane",
+      "especie": "guaxinim"
+    },
+    {
+      "id": "5",
+      "nome": "Maxãmp",
+      "especie": "Gorila"
+    }
+  ],
+  "superHeroi": [
+    {
+      "id": 1,
+      "nome": "Hero1",
+      "poder": "Poder1",
+      "cidade": "Cidade1",
+      "vivo": true
+    },
+    {
+      "id": 2,
+      "nome": "Hero2",
+      "poder": "Poder2",
+      "cidade": "Cidade2",
+      "vivo": true
+    },
+    {
+      "id": 3,
+      "nome": "Hero3",
+      "poder": "Poder3",
+      "cidade": "Cidade3",
+      "vivo": false
+    },
+    {
+      "id": 4,
+      "nome": "Hero4",
+      "poder": "Poder4",
+      "cidade": "Cidade4",
+      "vivo": false
+    },
+    {
+      "id": 5,
+      "nome": "Hero5",
+      "poder": "Poder5",
+      "cidade": "Cidade5",
+      "vivo": true
+    },
+    {
+      "id": 6,
+      "nome": "C#çador",
+      "poder": "Caçar erros e te julgar e.e",
+      "cidade": "Assembletown",
+      "vivo": true
+    }
+  ]
+}
