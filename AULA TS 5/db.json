@@ -1,0 +1,14 @@
+{
+    "produto" : [
+        {
+
+        }
+    ],
+    "costumer" :[
+        {
+            "id": "1",
+            "name": "Bandalf o Granco",
+            "age": 1021
+        }
+    ]
+}
